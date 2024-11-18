@@ -1,0 +1,3 @@
+# Greetings 👋🏽
+
+print("Hello, CoSSA!")
