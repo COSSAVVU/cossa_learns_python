@@ -39,17 +39,17 @@ https://roadmap.sh/python
 # Links to our Python Related Repositories
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" align="right" height="92" width="92"/>
-<a href="https://github.com/COSSAVVU/awesome-python">Awesome Python</a> : A curated list of high-quality Python frameworks, libraries, software, and resources. It covers a wide range of categories, including web development, data analysis, machine learning, and more1. Perfect for Python developers looking to discover new tools and stay up-to-date with the latest trends.
+<a href="https://github.com/COSSAVVU/awesome-python">Awesome Python</a> : A curated list of high-quality Python frameworks, libraries, software, and resources. It covers a wide range of categories, including web development, data analysis, machine learning, and more. Perfect for Python developers looking to discover new tools and stay up-to-date with the latest trends.
 
 ---
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" align="left" height="92" width="92"/>
-<a href="https://github.com/COSSAVVU/awesome-flask">Awesome Flask</a> : A curated list of awesome Flask resources and plugins. It includes third-party extensions for admin interfaces, authentication, database management, and more2. Ideal for developers using Flask to build web applications and looking for useful tools and libraries.
+<a href="https://github.com/COSSAVVU/awesome-flask">Awesome Flask</a> : A curated list of awesome Flask resources and plugins. It includes third-party extensions for admin interfaces, authentication, database management, and more. Ideal for developers using Flask to build web applications and looking for useful tools and libraries.
 
 ---
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" align="right" height="92" width="92"/>
-<a href="https://github.com/COSSAVVU/awesome-django">Awesome Django</a> : A curated list of awesome Django apps, projects, and resources. It features packages for admin interfaces, authentication, content management systems, and more3. Great for Django developers who want to enhance their projects with well-maintained and mature packages.
+<a href="https://github.com/COSSAVVU/awesome-django">Awesome Django</a> : A curated list of awesome Django apps, projects, and resources. It features packages for admin interfaces, authentication, content management systems, and more. Great for Django developers who want to enhance their projects with well-maintained and mature packages.
 
 # Roadmap to AI
 
