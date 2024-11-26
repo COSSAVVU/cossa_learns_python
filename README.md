@@ -67,4 +67,26 @@ https://roadmap.sh/python
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="92" width="92" alt="OpenCV"/>
 </div>
 
+# Certificates
+These are some free Certificates You can obtain online. Post them on your LinkedIn and CV!
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about) | MongoDB |Intermediate| 6.5 | 🏆|
+| [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python)|
+| [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python)|
+| [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/python-for-data-science)|
+| [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1)|
+| [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Programming Essentials In Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) | Cisco Networking Academy |Intermediate| 70 | 🏆 |
+| [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Python](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank |Beginner| 1.5 | 🏆|
+| [Intro to Graph Analytics in Python free course](https://memgraph.com/blog/learn-graph-analytics-with-python) | Memgraph |Intermediate| 3 | 🏅|
+| [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5     | 🏆     |
+| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
+| [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
+| [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
+
+
+
 > Disclaimer: This is not the definitive guide but one way to Learn Python.
