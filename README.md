@@ -49,7 +49,7 @@ https://roadmap.sh/python
 # Links to our Python Related Repositories
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" align="right" height="92" width="92"/>
-<a href="https://github.com/COSSAVVU/awesome-python">Awesome Python</a> : A curated list of high-quality Python frameworks, libraries, software, and resources. It covers a wide range of categories, including web development, data analysis, machine learning, and more. Perfect for Python developers looking to discover new tools and stay up-to-date with the latest trends.
+<a href="https://github.com/COSSAVVU/awesome-python">Awesome Python</a> : A curated list of high-quality 🐍 frameworks, libraries, software, and resources. It covers a wide range of categories, including web development, data analysis, machine learning, and more. Perfect for Python developers looking to discover new tools and stay up-to-date with the latest trends.
 
 ---
 
@@ -127,7 +127,7 @@ If you learn best by building from Our [Build-Your-Own-X](https://github.com/COS
 * [**Python**: _Just enough of a Git client to create a repo, commit, and push itself to GitHub_](https://benhoyt.com/writings/pygit/)
 * [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
-* [**C / Python**: _Build your own VPN/Virtual Switch_](https://github.com/peiyuanix/build-your-own-zerotier)
+* [**C / 🐍**: _Build your own VPN/Virtual Switch_](https://github.com/peiyuanix/build-your-own-zerotier)
 * [**Python**: _A Neural Network in 11 lines of Python_](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [**Python**: _Implement a Neural Network from Scratch_](https://victorzhou.com/blog/intro-to-neural-networks/)
 * [**Python**: _Optical Character Recognition (OCR)_](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
@@ -188,7 +188,7 @@ If you learn best by building from Our [Build-Your-Own-X](https://github.com/COS
 * [Beej's Guide to Python Programming - For Beginners](http://beej.us/guide/bgpython/) - Brian "Beej Jorgensen" Hall (HTML,PDF)
 * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) - Al Sweigart (3.x)
 * [Biopython Tutorial and Cookbook](https://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
-* [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
+* [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, 🐍, PDF, EPUB, Mobi)
 * [Building Data Products: The Ultimate Guide](https://resources.montecarlodata.com/c/ebook-building-data-products?x=gEwOdf) (HTML, EPUB)
 * [Building Skills in Object-Oriented Design, V4](https://slott56.github.io/building-skills-oo-design-book/build/html/) - Steven F. Lott (3.7)
     * [Building Skills in Object-Oriented Design, Release 2.2.1](https://web.archive.org/web/20150824204101/http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/latex/BuildingSkillsinOODesign.pdf) - Steven F. Lott (PDF) (2.2.1) *(:card_file_box: archived)*
@@ -308,7 +308,7 @@ If you learn best by building from Our [Build-Your-Own-X](https://github.com/COS
 * [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) - Allen B. Downey (3.x) (HTML, PDF) (CC BY-NC)
     * [Think Python First Edition](https://greenteapress.com/wp/think-python/) - Allen B. Downey (2.x) (HTML, PDF) (CC BY-NC)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
-* [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)
+* [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)🐍
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 
 
