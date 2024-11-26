@@ -69,6 +69,8 @@ https://roadmap.sh/python
 
 # Certificates
 These are some free Certificates You can obtain online. Post them on your LinkedIn and CV!
+🏅= Digital Badge
+🏆 = Certificate of Completion
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about) | MongoDB |Intermediate| 6.5 | 🏆|
